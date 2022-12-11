@@ -1,6 +1,6 @@
 # PAytm Clone
 
-[Deployed URL HERE]()
+[Deployed URL HERE](https://ujjawalmaurya.github.io/Paytm-clone/)
 
 ## MAde using HTML and Tailwind CSS
 
